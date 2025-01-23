@@ -13,6 +13,8 @@ Task-1
 
 **MENTOR NAME**: NEELA SANTOSH KUMAR
 
+**DESCRIPTION OF TASK**:
+
 This project provides a Python-based tool for monitoring and ensuring the integrity of files by calculating and comparing hash values. The tool allows users to track changes in files and verify if any unauthorized modifications have occurred. By using cryptographic hash functions, it computes the hash value of files and compares it over time to detect alterations.
 
 Clone this repository to your local machine:
